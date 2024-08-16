@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FZ7arlEGB28=",
+  "dgSpecHash": "Cqra47p0NjQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\Uygulama001.csproj",
+  "projectFilePath": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\Uygulama001.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MTFMR\\.nuget\\packages\\bunifu.charts.winforms\\2.0.0\\bunifu.charts.winforms.2.0.0.nupkg.sha512",
     "C:\\Users\\MTFMR\\.nuget\\packages\\bunifu.licensing\\5.0.0\\bunifu.licensing.5.0.0.nupkg.sha512",

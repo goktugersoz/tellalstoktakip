@@ -34,6 +34,7 @@ namespace Uygulama001
 
         private void LoadUrunler()
         {
+            textTarih.Text = dateTime.Value.ToString("dd/MM/yyyy HH:mm");
             if (File.Exists(jsonFilePath))
             {
                 string json = File.ReadAllText(jsonFilePath);
@@ -44,6 +45,7 @@ namespace Uygulama001
 
         private void ShowUrunler()
         {
+            textTarih.Text = dateTime.Value.ToString("dd/MM/yyyy HH:mm");
             listViewUrunler.Items.Clear();
 
             foreach (var urun in urunListesi)
@@ -56,6 +58,7 @@ namespace Uygulama001
                 item.SubItems.Add(urun?.Aciklama);
                 item.SubItems.Add(urun?.Kategori);
                 item.SubItems.Add(urun?.Konumu);
+                item.SubItems.Add(urun?.Tarih);
                 listViewUrunler.Items.Add(item);
             }
         }
@@ -283,6 +286,7 @@ namespace Uygulama001
 
         private void TemizleVeYukle()
         {
+            textTarih.Text = dateTime.Value.ToString("dd/MM/yyyy HH:mm");
             listViewUrunler.Items.Clear(); // ListView'i temizle
 
             // Tüm ürünleri ListView'e ekle
@@ -295,6 +299,7 @@ namespace Uygulama001
                 item.SubItems.Add(urun?.Aciklama);
                 item.SubItems.Add(urun?.Kategori);
                 item.SubItems.Add(urun?.Konumu);
+                item.SubItems.Add(urun?.Tarih); 
                 listViewUrunler.Items.Add(item);
             }
         }
@@ -386,6 +391,7 @@ namespace Uygulama001
                     || (urun.Kodu?.ToLower().Contains(aramaMetni) ?? false)
                     || (urun.Fiyati?.ToLower().Contains(aramaMetni) ?? false)
                     || (urun.Kategori?.ToLower().Contains(aramaMetni) ?? false)
+                    || (urun.Tarih?.ToLower().Contains(aramaMetni) ?? false)
                     || (urun.Aciklama?.ToLower().Contains(aramaMetni) ?? false)))
                 {
                     eslesenUrunler.Add(urun);
@@ -404,6 +410,7 @@ namespace Uygulama001
                 item.SubItems.Add(urun?.Aciklama);
                 item.SubItems.Add(urun?.Kategori);
                 item.SubItems.Add(urun?.Konumu);
+                item.SubItems.Add(urun?.Tarih);
                 listViewUrunler.Items.Add(item);
             }
         }
@@ -444,6 +451,7 @@ namespace Uygulama001
             yeniUrun.Kodu = txtKodu.Text;
             yeniUrun.Fiyati = txtFiyati.Text;
             yeniUrun.Aciklama = txtAciklama.Text;
+            yeniUrun.Tarih = textTarih.Text;
 
             // Seçilen konumu yeni ürünün konumu olarak ata
             if (comboBox2.SelectedItem != null)
@@ -490,6 +498,8 @@ namespace Uygulama001
             item.SubItems.Add(yeniUrun.Aciklama);
             item.SubItems.Add(yeniUrun.Kategori);
             item.SubItems.Add(yeniUrun.Konumu);
+            item.SubItems.Add(yeniUrun.Tarih);
+
             listViewUrunler.Items.Add(item);
 
             // Değişiklikleri dosyaya kaydet
@@ -805,11 +815,12 @@ namespace Uygulama001
             public string? Aciklama { get; set; }
             public string? ResimDosyaYolu { get; set; }
             public string? Konumu { get; set; }
+            public string? Tarih {  get; set; }
 
 
             public override string ToString()
             {
-                return $"{Id} - {Adi} - {Kodu} - {Fiyati} TL - {Aciklama} - {Konumu}";
+                return $"{Id} - {Adi} - {Kodu} - {Fiyati} TL - {Aciklama} - {Konumu} - {Tarih}";
             }
         }
 

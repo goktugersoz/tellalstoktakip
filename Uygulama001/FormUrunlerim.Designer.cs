@@ -14,6 +14,7 @@ namespace Uygulama001
         private System.Windows.Forms.ColumnHeader columnHeaderAciklama;
         private System.Windows.Forms.ColumnHeader columnHeaderKonumu;
         private System.Windows.Forms.ColumnHeader columnHeaderKategori;
+        private System.Windows.Forms.ColumnHeader columnHeaderTarih;
         private System.Windows.Forms.Button btnGeri;
         private System.Windows.Forms.Button btnDegistir;
         private System.Windows.Forms.Button btnSil;
@@ -32,6 +33,7 @@ namespace Uygulama001
             columnHeaderAciklama = new ColumnHeader();
             columnHeaderKategori = new ColumnHeader();
             columnHeaderKonumu = new ColumnHeader();
+            columnHeaderTarih = new ColumnHeader();
             btnGeri = new Button();
             btnDegistir = new Button();
             btnSil = new Button();
@@ -80,7 +82,7 @@ namespace Uygulama001
             listViewUrunler.BackColor = SystemColors.InactiveCaption;
             listViewUrunler.BackgroundImageTiled = true;
             listViewUrunler.BorderStyle = BorderStyle.None;
-            listViewUrunler.Columns.AddRange(new ColumnHeader[] { columnHeaderId, columnHeaderAdi, columnHeaderKodu, columnHeaderFiyati, columnHeaderAciklama, columnHeaderKategori, columnHeaderKonumu });
+            listViewUrunler.Columns.AddRange(new ColumnHeader[] { columnHeaderId, columnHeaderAdi, columnHeaderKodu, columnHeaderFiyati, columnHeaderAciklama, columnHeaderKategori, columnHeaderKonumu, columnHeaderTarih });
             listViewUrunler.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 162);
             listViewUrunler.ForeColor = SystemColors.InactiveCaptionText;
             listViewUrunler.FullRowSelect = true;
@@ -117,7 +119,7 @@ namespace Uygulama001
             // columnHeaderAciklama
             // 
             columnHeaderAciklama.Text = "Açıklama";
-            columnHeaderAciklama.Width = 300;
+            columnHeaderAciklama.Width = 320;
             // 
             // columnHeaderKategori
             // 
@@ -127,7 +129,12 @@ namespace Uygulama001
             // columnHeaderKonumu
             // 
             columnHeaderKonumu.Text = "Konumu";
-            columnHeaderKonumu.Width = 100;
+            columnHeaderKonumu.Width = 80;
+            // 
+            // columnHeaderTarih
+            // 
+            columnHeaderTarih.Text = "Tarih";
+            columnHeaderTarih.Width = 140;
             // 
             // btnGeri
             // 
@@ -460,7 +467,7 @@ namespace Uygulama001
             textTarih.Name = "textTarih";
             textTarih.Size = new Size(200, 32);
             textTarih.TabIndex = 44;
-            textTarih.Text = "27.02.2024 20:35";
+            textTarih.Text = "27.02.2024 20:35\r\n";
             // 
             // label8
             // 
@@ -473,17 +480,6 @@ namespace Uygulama001
             label8.Size = new Size(45, 21);
             label8.TabIndex = 45;
             label8.Text = "Tarih";
-            // 
-      
-           
-            // menuStrip1
-            // 
-            menuStrip1.Items.AddRange(new ToolStripItem[] { denemeToolStripMenuItem, müşterilerToolStripMenuItem, ürünlerToolStripMenuItem, stokToolStripMenuItem });
-            menuStrip1.Location = new Point(0, 0);
-            menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(1264, 24);
-            menuStrip1.TabIndex = 34;
-            menuStrip1.Text = "menuStrip1";
             // 
             // denemeToolStripMenuItem
             // 
@@ -507,7 +503,6 @@ namespace Uygulama001
             ürünlerToolStripMenuItem.Name = "ürünlerToolStripMenuItem";
             ürünlerToolStripMenuItem.Size = new Size(76, 20);
             ürünlerToolStripMenuItem.Text = "ÜRÜNLER";
-            
             // 
             // stokToolStripMenuItem
             // 
@@ -515,6 +510,35 @@ namespace Uygulama001
             stokToolStripMenuItem.Name = "stokToolStripMenuItem";
             stokToolStripMenuItem.Size = new Size(51, 20);
             stokToolStripMenuItem.Text = "STOK";
+            // 
+            // menuStrip1
+            // 
+            menuStrip1.Items.AddRange(new ToolStripItem[] { denemeToolStripMenuItem, müşterilerToolStripMenuItem, ürünlerToolStripMenuItem, stokToolStripMenuItem });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Size = new Size(1264, 24);
+            menuStrip1.TabIndex = 34;
+            menuStrip1.Text = "menuStrip1";
+            // 
+            // toolStripMenuItem1
+            // 
+            toolStripMenuItem1.Name = "toolStripMenuItem1";
+            toolStripMenuItem1.Size = new Size(32, 19);
+            // 
+            // toolStripMenuItem2
+            // 
+            toolStripMenuItem2.Name = "toolStripMenuItem2";
+            toolStripMenuItem2.Size = new Size(32, 19);
+            // 
+            // toolStripMenuItem3
+            // 
+            toolStripMenuItem3.Name = "toolStripMenuItem3";
+            toolStripMenuItem3.Size = new Size(32, 19);
+            // 
+            // toolStripMenuItem4
+            // 
+            toolStripMenuItem4.Name = "toolStripMenuItem4";
+            toolStripMenuItem4.Size = new Size(32, 19);
             // 
             // FormUrunlerim
             // 
@@ -577,6 +601,7 @@ namespace Uygulama001
         private TextBox txtFiyati;
         private TextBox txtKodu;
         private TextBox txtAdi;
+        private TextBox textTarih;
         private Label label4;
         private Label label3;
         private Label label2;
@@ -588,7 +613,6 @@ namespace Uygulama001
         private ComboBox comboBox2;
         private Label label7;
         private DateTimePicker dateTime;
-        private TextBox textTarih;
         private Label label8;
         private ToolStripMenuItem denemeToolStripMenuItem;
         private ToolStripMenuItem müşterilerToolStripMenuItem;

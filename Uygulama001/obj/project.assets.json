@@ -3931,11 +3931,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\Uygulama001.csproj",
+      "projectUniqueName": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\Uygulama001.csproj",
       "projectName": "Uygulama001",
-      "projectPath": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\Uygulama001.csproj",
+      "projectPath": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\Uygulama001.csproj",
       "packagesPath": "C:\\Users\\MTFMR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\obj\\",
+      "outputPath": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MTFMR\\AppData\\Roaming\\NuGet\\NuGet.Config",

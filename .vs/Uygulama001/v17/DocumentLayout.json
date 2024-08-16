@@ -1,38 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\",
+  "WorkspaceRootPath": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|c:\\users\\mtfmr\\desktop\\uygulama002\\uygulama001\\formanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|solutionrelative:uygulama001\\formanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|c:\\users\\mtfmr\\desktop\\tellalstoktakip\\uygulama001\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|solutionrelative:uygulama001\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|c:\\users\\mtfmr\\desktop\\uygulama002\\uygulama001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|solutionrelative:uygulama001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|c:\\users\\mtfmr\\desktop\\uygulama002\\uygulama001\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|solutionrelative:uygulama001\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|c:\\users\\mtfmr\\desktop\\uygulama002\\uygulama001\\formurunlerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|solutionrelative:uygulama001\\formurunlerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|c:\\users\\mtfmr\\desktop\\uygulama002\\uygulama001\\formurunlerim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|solutionrelative:uygulama001\\formurunlerim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|C:\\Users\\MTFMR\\Desktop\\Uygulama002\\uygulama001\\formanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|solutionrelative:uygulama001\\formanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|c:\\users\\mtfmr\\desktop\\uygulama002\\uygulama001\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|c:\\users\\mtfmr\\desktop\\tellalstoktakip\\uygulama001\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|solutionrelative:uygulama001\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|c:\\users\\mtfmr\\desktop\\uygulama002\\uygulama001\\formmusteri.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|solutionrelative:uygulama001\\formmusteri.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|c:\\users\\mtfmr\\desktop\\tellalstoktakip\\uygulama001\\formurunlerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|solutionrelative:uygulama001\\formurunlerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|c:\\users\\mtfmr\\desktop\\tellalstoktakip\\uygulama001\\formurunlerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|solutionrelative:uygulama001\\formurunlerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|c:\\users\\mtfmr\\desktop\\tellalstoktakip\\uygulama001\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1587574F-4420-4DA9-9BF6-A5587EB42348}|Uygulama001\\Uygulama001.csproj|solutionrelative:uygulama001\\formmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,38 +35,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormAnasayfa.cs",
-              "DocumentMoniker": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormAnasayfa.cs",
-              "RelativeDocumentMoniker": "Uygulama001\\FormAnasayfa.cs",
-              "ToolTip": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormAnasayfa.cs",
-              "RelativeToolTip": "Uygulama001\\FormAnasayfa.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Uygulama001\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\FormLogin.cs [Design]",
+              "RelativeToolTip": "Uygulama001\\FormLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T10:03:01.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T14:44:15.279Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\Program.cs",
-              "RelativeDocumentMoniker": "Uygulama001\\Program.cs",
-              "ToolTip": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\Program.cs",
-              "RelativeToolTip": "Uygulama001\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Title": "FormMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\FormMusteri.cs",
+              "RelativeDocumentMoniker": "Uygulama001\\FormMusteri.cs",
+              "ToolTip": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\FormMusteri.cs",
+              "RelativeToolTip": "Uygulama001\\FormMusteri.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAACwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T09:16:57.747Z",
+              "WhenOpened": "2024-08-16T14:24:16.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "FormUrunlerim.cs",
-              "DocumentMoniker": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormUrunlerim.cs",
+              "DocumentMoniker": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\FormUrunlerim.cs",
               "RelativeDocumentMoniker": "Uygulama001\\FormUrunlerim.cs",
-              "ToolTip": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormUrunlerim.cs",
+              "ToolTip": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\FormUrunlerim.cs",
               "RelativeToolTip": "Uygulama001\\FormUrunlerim.cs",
-              "ViewState": "AgIAAPwCAAAAAAAAAAAcwA4DAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T14:39:09.101Z",
               "EditorCaption": ""
@@ -86,63 +73,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FormUrunlerim.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormUrunlerim.Designer.cs",
-              "RelativeDocumentMoniker": "Uygulama001\\FormUrunlerim.Designer.cs",
-              "ToolTip": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormUrunlerim.Designer.cs",
-              "RelativeToolTip": "Uygulama001\\FormUrunlerim.Designer.cs",
-              "ViewState": "AgIAAOkBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FormMusteri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\FormMusteri.cs",
+              "RelativeDocumentMoniker": "Uygulama001\\FormMusteri.cs",
+              "ToolTip": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\FormMusteri.cs [Design]",
+              "RelativeToolTip": "Uygulama001\\FormMusteri.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T14:36:35.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormLogin.cs",
-              "DocumentMoniker": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormLogin.cs",
-              "RelativeDocumentMoniker": "Uygulama001\\FormLogin.cs",
-              "ToolTip": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormLogin.cs",
-              "RelativeToolTip": "Uygulama001\\FormLogin.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T14:34:46.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormAnasayfa.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormAnasayfa.cs",
-              "RelativeDocumentMoniker": "Uygulama001\\FormAnasayfa.cs",
-              "ToolTip": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormAnasayfa.cs [Design]",
-              "RelativeToolTip": "Uygulama001\\FormAnasayfa.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T14:15:33.282Z",
+              "WhenOpened": "2024-08-16T14:23:40.941Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormMusteri.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormMusteri.Designer.cs",
-              "RelativeDocumentMoniker": "Uygulama001\\FormMusteri.Designer.cs",
-              "ToolTip": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormMusteri.Designer.cs",
-              "RelativeToolTip": "Uygulama001\\FormMusteri.Designer.cs",
-              "ViewState": "AgIAAOABAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FormUrunlerim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\FormUrunlerim.cs",
+              "RelativeDocumentMoniker": "Uygulama001\\FormUrunlerim.cs",
+              "ToolTip": "C:\\Users\\MTFMR\\Desktop\\TellalStokTakip\\Uygulama001\\FormUrunlerim.cs [Design]",
+              "RelativeToolTip": "Uygulama001\\FormUrunlerim.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T14:11:04.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormMusteri.cs",
-              "DocumentMoniker": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormMusteri.cs",
-              "RelativeDocumentMoniker": "Uygulama001\\FormMusteri.cs",
-              "ToolTip": "C:\\Users\\MTFMR\\Desktop\\Uygulama002\\Uygulama001\\FormMusteri.cs",
-              "RelativeToolTip": "Uygulama001\\FormMusteri.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T13:52:18.477Z"
+              "WhenOpened": "2024-08-16T13:16:44.231Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
