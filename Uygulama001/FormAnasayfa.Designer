@@ -1,0 +1,107 @@
+﻿namespace Uygulama001
+{
+    partial class FormAnasayfa
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormAnasayfa));
+            b_urunlerim = new Button();
+            b_musteriler = new Button();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            SuspendLayout();
+            // 
+            // b_urunlerim
+            // 
+            b_urunlerim.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            b_urunlerim.BackColor = SystemColors.HotTrack;
+            b_urunlerim.BackgroundImageLayout = ImageLayout.Stretch;
+            b_urunlerim.FlatStyle = FlatStyle.Flat;
+            b_urunlerim.Font = new Font("Segoe UI", 26.25F, FontStyle.Regular, GraphicsUnit.Point, 162);
+            b_urunlerim.Location = new Point(790, 593);
+            b_urunlerim.Margin = new Padding(3, 4, 3, 4);
+            b_urunlerim.Name = "b_urunlerim";
+            b_urunlerim.Size = new Size(256, 107);
+            b_urunlerim.TabIndex = 0;
+            b_urunlerim.Text = "Ürünlerim";
+            b_urunlerim.UseVisualStyleBackColor = false;
+            b_urunlerim.Click += b_urunlerim_Click;
+            // 
+            // b_musteriler
+            // 
+            b_musteriler.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            b_musteriler.BackColor = Color.FromArgb(255, 128, 0);
+            b_musteriler.FlatStyle = FlatStyle.Flat;
+            b_musteriler.Font = new Font("Segoe UI", 26.25F, FontStyle.Regular, GraphicsUnit.Point, 162);
+            b_musteriler.Location = new Point(1077, 593);
+            b_musteriler.Margin = new Padding(3, 4, 3, 4);
+            b_musteriler.Name = "b_musteriler";
+            b_musteriler.Size = new Size(256, 107);
+            b_musteriler.TabIndex = 2;
+            b_musteriler.Text = "Müşteriler";
+            b_musteriler.UseVisualStyleBackColor = false;
+            b_musteriler.Click += b_musteriler_Click;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(829, 63);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(467, 448);
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox1.TabIndex = 3;
+            pictureBox1.TabStop = false;
+            // 
+            // FormAnasayfa
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ButtonHighlight;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            ClientSize = new Size(1362, 733);
+            Controls.Add(pictureBox1);
+            Controls.Add(b_musteriler);
+            Controls.Add(b_urunlerim);
+            Margin = new Padding(3, 4, 3, 4);
+            MaximumSize = new Size(1380, 780);
+            MinimumSize = new Size(625, 715);
+            Name = "FormAnasayfa";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "FormAnasayfa";
+            Load += FormAnasayfa_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ResumeLayout(false);
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Button b_urunlerim;
+        private System.Windows.Forms.Button b_musteriler;
+        private PictureBox pictureBox1;
+    }
+}

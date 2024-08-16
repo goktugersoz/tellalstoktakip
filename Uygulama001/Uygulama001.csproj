@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+    <ForceDesignerDpiUnaware>true</ForceDesignerDpiUnaware>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bunifu.Charts.WinForms" Version="2.0.0" />
+    <PackageReference Include="Bunifu.UI.WinForms" Version="6.3.0" />
+    <PackageReference Include="CustomControls.RJControls" Version="1.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="8.0.2" />
+    <PackageReference Include="Newtonsoft.Json.Bson" Version="1.0.2" />
+    <PackageReference Include="Newtonsoft.Json.Schema" Version="3.0.15" />
+    <PackageReference Include="PeanutButter.TrayIcon" Version="2.0.3" />
+    <PackageReference Include="RJCodeAdvance.RJControl2s" Version="1.0.0" />
+    <PackageReference Include="RJCodeAdvance.RJControls" Version="1.0.0" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.118" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Files\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

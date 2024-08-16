@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Ad": "burak",
+    "Telefon": "(550) 777-7659",
+    "islem": "Televizyon Kurulum",
+    "Ucret": "1000  ₺",
+    "Borc": "500  ₺",
+    "Tarih": "28.02.2024 02:14",
+    "Aciklama": "İnönü mahle 7.sok"
+  },
+  {
+    "Id": 2,
+    "Ad": "ahmet turan tellal",
+    "Telefon": "(521) 321-3213",
+    "islem": "TV kuruulcucc",
+    "Ucret": "1233  ₺",
+    "Borc": "300  ₺",
+    "Tarih": "28.02.2024 02:14",
+    "Aciklama": "asddasdadssadad"
+  }
+]

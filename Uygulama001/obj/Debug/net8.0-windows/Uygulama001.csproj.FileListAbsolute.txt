@@ -1,0 +1,627 @@
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.exe
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.deps.json
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.runtimeconfig.json
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormAnasayfa.resources
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunlerim.resources
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.GenerateResource.cache
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfoInputs.cache
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfo.cs
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.CoreCompileInputs.cache
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\refint\Uygulama001.dll
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.genruntimeconfig.cache
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\ref\Uygulama001.dll
+C:\Users\AHMETTURANTELLAL\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunekle.resources
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.exe
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.deps.json
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.runtimeconfig.json
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormAnasayfa.resources
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunekle.resources
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunlerim.resources
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.GenerateResource.cache
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfoInputs.cache
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfo.cs
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.CoreCompileInputs.cache
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\refint\Uygulama001.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.genruntimeconfig.cache
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\ref\Uygulama001.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.AssemblyReference.cache
+C:\Users\GöktuğErsöz\Desktop\yazılım\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.CopyComplete
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.AssemblyReference.cache
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormAnasayfa.resources
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunlerim.resources
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.GenerateResource.cache
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfoInputs.cache
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfo.cs
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.CoreCompileInputs.cache
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\refint\Uygulama001.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.exe
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.deps.json
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.runtimeconfig.json
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.CopyComplete
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.genruntimeconfig.cache
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\ref\Uygulama001.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.Schema.dll
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunDetay.resources
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.Properties.Resources.resources
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormMusteri.resources
+C:\Users\GöktuğErsöz\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormMusteriDetay.resources
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.exe
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.deps.json
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.runtimeconfig.json
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.Schema.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.AssemblyReference.cache
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormAnasayfa.resources
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormMusteri.resources
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormMusteriDetay.resources
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunDetay.resources
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunlerim.resources
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.Properties.Resources.resources
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.GenerateResource.cache
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfoInputs.cache
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfo.cs
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.CoreCompileInputs.cache
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.CopyComplete
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\refint\Uygulama001.dll
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.genruntimeconfig.cache
+C:\Users\mehmet fatih\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\ref\Uygulama001.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.exe
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.deps.json
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.runtimeconfig.json
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Bunifu.Charts.WinForms.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\CustomControls.RJControls.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.Schema.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\PeanutButter.TrayIcon.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\RJCodeAdance.RJControls.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\RJCodeAdvance.RJControls.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.Odbc.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Reflection.Context.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Web.Services.Description.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\fatih\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.AssemblyReference.cache
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormAnasayfa.resources
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormMusteri.resources
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormMusteriDetay.resources
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunDetay.resources
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunlerim.resources
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.Properties.Resources.resources
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.GenerateResource.cache
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfoInputs.cache
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfo.cs
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.CopyComplete
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\refint\Uygulama001.dll
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.genruntimeconfig.cache
+C:\Users\fatih\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\ref\Uygulama001.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.exe
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.deps.json
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.runtimeconfig.json
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Bunifu.Charts.WinForms.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\CustomControls.RJControls.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.Schema.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\PeanutButter.TrayIcon.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\RJCodeAdance.RJControls.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\RJCodeAdvance.RJControls.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.Odbc.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Reflection.Context.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Web.Services.Description.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormAnasayfa.resources
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormMusteri.resources
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormMusteriDetay.resources
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunDetay.resources
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunlerim.resources
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.Properties.Resources.resources
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.CopyComplete
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\refint\Uygulama001.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\ref\Uygulama001.dll
+C:\Users\Administrator\Desktop\software\26 subat\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormLogin.resources
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.exe
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.deps.json
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.runtimeconfig.json
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Bunifu.Charts.WinForms.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\CustomControls.RJControls.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.Schema.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\PeanutButter.TrayIcon.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\RJCodeAdance.RJControls.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\RJCodeAdvance.RJControls.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Reflection.Context.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\System.Web.Services.Description.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.AssemblyReference.cache
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormAnasayfa.resources
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormLogin.resources
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormMusteri.resources
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormMusteriDetay.resources
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunDetay.resources
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunlerim.resources
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.Properties.Resources.resources
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.GenerateResource.cache
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfoInputs.cache
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfo.cs
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.CoreCompileInputs.cache
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama.01E2FE08.Up2Date
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\refint\Uygulama001.dll
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.genruntimeconfig.cache
+C:\Users\MTFMR\Desktop\Uygulama001\Uygulama001\obj\Debug\net8.0-windows\ref\Uygulama001.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.exe
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.deps.json
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.runtimeconfig.json
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Bunifu.Charts.WinForms.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\CustomControls.RJControls.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\Newtonsoft.Json.Schema.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\PeanutButter.TrayIcon.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\RJCodeAdance.RJControls.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\RJCodeAdvance.RJControls.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.Reflection.Context.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\System.Web.Services.Description.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.AssemblyReference.cache
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormAnasayfa.resources
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormLogin.resources
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormMusteri.resources
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormMusteriDetay.resources
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunDetay.resources
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.FormUrunlerim.resources
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.Properties.Resources.resources
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.GenerateResource.cache
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfoInputs.cache
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.AssemblyInfo.cs
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.csproj.CoreCompileInputs.cache
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama.01E2FE08.Up2Date
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\refint\Uygulama001.dll
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.pdb
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\Uygulama001.genruntimeconfig.cache
+C:\Users\MTFMR\Desktop\Uygulama002\Uygulama001\obj\Debug\net8.0-windows\ref\Uygulama001.dll

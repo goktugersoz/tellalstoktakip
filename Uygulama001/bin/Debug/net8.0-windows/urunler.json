@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 6,
+    "Kategori": "BESLEME",
+    "Adi": "vestel",
+    "Kodu": "A123FC",
+    "Fiyati": "700",
+    "Aciklama": "sağlam ikinci el",
+    "ResimDosyaYolu": "C:\\Users\\MTFMR\\AppData\\Local\\Temp\\36712db7-9b74-4aaf-a2dd-24a5e9e5b224.png",
+    "Konumu": null
+  },
+  {
+    "Id": 7,
+    "Kategori": "BESLEME",
+    "Adi": "dddddd",
+    "Kodu": "BSA1255d-35",
+    "Fiyati": "800",
+    "Aciklama": "sağlam ikinci el",
+    "ResimDosyaYolu": "",
+    "Konumu": null
+  },
+  {
+    "Id": 8,
+    "Kategori": "BESLEME",
+    "Adi": "vestel",
+    "Kodu": "17ıps71",
+    "Fiyati": "913",
+    "Aciklama": "diyot bozuk",
+    "ResimDosyaYolu": "C:\\Users\\mehmet fatih\\Desktop\\televizyonkart.png",
+    "Konumu": null
+  }
+]
